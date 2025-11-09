@@ -14,9 +14,8 @@ AVISO LEGAL (LEIA ANTES)
 Conteúdo do repositório
 -----------------------
 /src/RATClient/       -> Código-fonte do cliente (WinForms)
-  - RATClientForm.cs
+  - RATClient.cs
   - app.manifest
-  - RATClient.csproj
 
 Pré-requisitos
 --------------
@@ -35,7 +34,7 @@ Antes de compilar / executar
 Como compilar (resumo)
 ---------------------
 Visual Studio:
-- Abra `RATClient.csproj` no Visual Studio.
+- Abra `RATClient.cs` no Visual Studio.
 - Ajuste configurações de build (Debug/Release) conforme necessário.
 - Build -> Rebuild Solution.
 
